@@ -2,9 +2,9 @@
 
 > **Obsidianite-inspired dark theme with WCAG AAA contrast.** Deep ocean bioluminescence meets Art Nouveau — optimized for long coding sessions without eye strain.
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/tryambakam-noesis.noesis-bioluminescent-theme?style=for-the-badge&label=VS%20Code%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=tryambakam-noesis.noesis-bioluminescent-theme)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/tryambakam-noesis.noesis-bioluminescent-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=tryambakam-noesis.noesis-bioluminescent-theme)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/tryambakam-noesis.noesis-bioluminescent-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=tryambakam-noesis.noesis-bioluminescent-theme)
+[![GitHub Release](https://img.shields.io/github/v/release/Sheshiyer/vscode-noesis-bioluminescent-theme?style=for-the-badge&logo=github)](https://github.com/Sheshiyer/vscode-noesis-bioluminescent-theme/releases)
+[![License](https://img.shields.io/github/license/Sheshiyer/vscode-noesis-bioluminescent-theme?style=for-the-badge)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/Sheshiyer/vscode-noesis-bioluminescent-theme?style=for-the-badge)](https://github.com/Sheshiyer/vscode-noesis-bioluminescent-theme/stargazers)
 
 ![Editor Overview](assets/screenshots/editor-overview.png)
 
@@ -54,7 +54,7 @@
 
 ### From VSIX File
 
-1. Download the latest `.vsix` from [Releases](https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme/releases)
+1. Download the latest `.vsix` from [Releases](https://github.com/Sheshiyer/vscode-noesis-bioluminescent-theme/releases)
 2. Extensions sidebar → `...` menu → **Install from VSIX**
 3. Select downloaded file
 4. Activate: `⌘K ⌘T` → **"Noesis Bioluminescent"**
@@ -158,7 +158,7 @@ Comprehensive syntax highlighting for:
 
 None currently reported. If you encounter issues:
 
-1. Check [existing issues](https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme/issues)
+1. Check [existing issues](https://github.com/Sheshiyer/vscode-noesis-bioluminescent-theme/issues)
 2. Report new issues with:
    - VS Code version (`Help → About`)
    - Theme version (check Extensions sidebar)
@@ -233,8 +233,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - **Website:** [tryambakam.space](https://tryambakam.space)
 - **GitHub:** [@tryambakam-noesis](https://github.com/tryambakam-noesis)
-- **Issues:** [Report bugs](https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme/issues)
-- **Discussions:** [Feature requests & Q&A](https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme/discussions)
+- **Issues:** [Report bugs](https://github.com/Sheshiyer/vscode-noesis-bioluminescent-theme/issues)
+- **Discussions:** [Feature requests & Q&A](https://github.com/Sheshiyer/vscode-noesis-bioluminescent-theme/discussions)
 
 ---
 

@@ -11,16 +11,18 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme"
+    "url": "https://github.com/Sheshiyer/vscode-noesis-bioluminescent-theme"
   },
   "bugs": {
-    "url": "https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme/issues"
+    "url": "https://github.com/Sheshiyer/vscode-noesis-bioluminescent-theme/issues"
   },
-  "homepage": "https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme",
+  "homepage": "https://github.com/Sheshiyer/vscode-noesis-bioluminescent-theme",
   "engines": {
     "vscode": "^1.75.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "keywords": [
     "theme",
     "dark theme",
@@ -47,5 +49,11 @@
         "path": "./themes/noesis-bioluminescent-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
   }
 }
