@@ -1,0 +1,51 @@
+{
+  "name": "noesis-bioluminescent-theme",
+  "displayName": "Noesis Bioluminescent",
+  "description": "Obsidianite-inspired dark theme with WCAG AAA contrast. Deep ocean bioluminescence meets Art Nouveau — optimized for long coding sessions.",
+  "version": "0.1.0",
+  "publisher": "tryambakam-noesis",
+  "author": {
+    "name": "Tryambakam Noesis",
+    "email": "contact@tryambakam.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme/issues"
+  },
+  "homepage": "https://github.com/tryambakam-noesis/vscode-noesis-bioluminescent-theme",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": ["Themes"],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "color-theme",
+    "bioluminescent",
+    "obsidianite",
+    "noesis",
+    "accessibility",
+    "wcag",
+    "high contrast",
+    "solarpunk",
+    "art nouveau"
+  ],
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#0A1628",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noesis Bioluminescent",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noesis-bioluminescent-color-theme.json"
+      }
+    ]
+  }
+}
